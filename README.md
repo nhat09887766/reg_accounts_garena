@@ -1,2 +1,2 @@
 # reg_accounts_garena
-8/18/2023 vietnam
+18/8/2023 vietnam
