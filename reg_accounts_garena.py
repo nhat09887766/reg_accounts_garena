@@ -50,3 +50,4 @@ def reg_garena(input_name,input_email):
     file.close()
 for sl in range(0,int(input_sl)):
   reg_garena(input_name,input_email)
+ 
